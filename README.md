@@ -25,8 +25,9 @@ Client need to select the peer from which the file need to be downloaded by prov
 
 ![1](https://user-images.githubusercontent.com/22176809/35885204-bc2223c0-0b52-11e8-9f4a-63440fa4f7b0.PNG)
 
-Response Time
-
+    Response Time
+    
+![image](https://user-images.githubusercontent.com/22176809/35885233-d613605a-0b52-11e8-9edb-990fdf1d4f63.png)
  
 Improvements:
 •	Instead of asking port number from user program can handle by auto generating numbers storing used port numbers in some data structure so that same port number cannot be used.
